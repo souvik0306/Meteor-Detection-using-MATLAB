@@ -7,7 +7,7 @@ The Image Processing Toolbox supports functions that enable you to use the Hough
 The Hough Function available in MATLAB i.e. (hough) implements the Standard Hough Transform (SHT). The Hough transform is designed to detect lines, using the parametric representation of a line:
 rho = x*cos(theta) + y*sin(theta)
 
-##Steps Involved - 
+## Steps Involved - 
 1) Converting the RGB Image into it's Grayscale Equivalent.
 2) Followed by converting the Grayscale image into a Binary Image where 1 represents all the white values and 0 represents all the black values. 
 3) The image is then processed further by removing acailable smoothening techniques and filtering it to remove noises.
