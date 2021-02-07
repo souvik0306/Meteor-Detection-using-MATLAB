@@ -10,5 +10,5 @@ rho = x*cos(theta) + y*sin(theta)
 ## Steps Involved - 
 1) Converting the RGB Image into it's Grayscale Equivalent.
 2) Followed by converting the Grayscale Image into a Binary Image where 1 represents all the white values and 0 represents all the black values. 
-3) The image is then processed further by removing acailable smoothening techniques and filtering it to remove noises.
+3) The image is then processed further by available smoothening techniques and filtering it to remove noises.
 
