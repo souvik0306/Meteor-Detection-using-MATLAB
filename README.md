@@ -1,7 +1,7 @@
 # Meteor-Detection-using-MATLAB
 Meteor Detection via MATLAB using Image Processing Toolbox and Hough Transformation
 ## Aim of the Project - 
-In this project I've tried to detect meteors using various night sky images depicting a possible meteor by applying the principles of Hough Transform and other available system functions.
+In this project I've tried to detect meteors using various night sky images depicting a possible meteor by applying the principles of **Hough Transform** and other available system functions.
 
 ## Steps Involved - 
 1) Converting the RGB Image into it's Grayscale Equivalent.
