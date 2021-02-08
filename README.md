@@ -7,7 +7,7 @@ In this project I've tried to detect meteors using various night sky images depi
 1) Converting the RGB Image into it's Grayscale Equivalent.
 2) Followed by converting the Grayscale Image into a Binary Image where 1 represents all the white values and 0 represents all the black values. 
 3) The image is then processed further by available smoothening techniques and filtering it to remove noises.
-4) Using the Hough Function available in MATLAB i.e. *(hough)* implements the Standard Hough Transform (SHT). The Hough Transform is designed to detect lines, using the parametric representation of a line:
+4) Using the Hough Function available in MATLAB i.e. ***(hough)*** implements the Standard Hough Transform (SHT). The Hough Transform is designed to detect lines, using the parametric representation of a line:
 
                                      rho = x*cos(theta) + y*sin(theta)
 
