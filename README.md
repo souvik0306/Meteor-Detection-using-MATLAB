@@ -17,4 +17,4 @@ In this project I've tried to detect meteors using various night sky images depi
   
 I would like to thank Eliška Anna Kubičková of the University of West Bohemia in Pilsen, Department of Cybernetics who's research paper - "SEARCHING OF METEORS IN ASTRONOMICAL IMAGES ON THE BASIS OF MATLAB TOOLBOX" I have referred to for this project.
 
-![image used](https://github.com/souvik0306/Meteor-Detection-using-MATLAB/blob/master/Result image1.png?raw=true)
+![image used](https://github.com/souvik0306/Meteor-Detection-using-MATLAB/blob/master/Result_image1.png?raw=true)
