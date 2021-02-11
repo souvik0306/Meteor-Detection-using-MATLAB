@@ -3,7 +3,7 @@ clear all
 RGB = imread('Meteor.jpg');
 gray_image = rgb2gray(RGB)
 binary_image = im2bw(gray_image)
-
+% 
 figure(1)
 subplot(3,2,1); imshow(RGB); title('RGB Image');
 subplot(3,2,2); imshow(gray_image); title('Grayscale Image');
