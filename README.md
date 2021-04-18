@@ -15,7 +15,7 @@ In this project I've tried to detect meteors using various night sky images depi
 
   By applying Hough Transformation in the processed image a raw image is produced with detected lines, which gives us an idea of a possible meteor.
   
-I would like to thank **Eliška Anna Kubičková** of the University of West Bohemia in Pilsen, Department of Cybernetics who's research paper on "SEARCHING OF METEORS IN ASTRONOMICAL IMAGES ON THE BASIS OF MATLAB TOOLBOX" I have referred to for this project.
+I would like to thank **Eliška Anna Kubičková**, University of West Bohemia Pilsen, Department of Cybernetics who's research paper on "SEARCHING OF METEORS IN ASTRONOMICAL IMAGES ON THE BASIS OF MATLAB TOOLBOX" I have referred to for this project.
 
 Image Used - 
 ![image used](https://github.com/souvik0306/Meteor-Detection-using-MATLAB/blob/master/meteor.jpg?raw=true)
