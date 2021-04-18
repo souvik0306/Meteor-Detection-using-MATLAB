@@ -14,8 +14,6 @@ In this project I've tried to detect meteors using various night sky images depi
   Where the variable rho is the distance from the origin to the line along a vector perpendicular to the line. theta is the angle between the x-axis and this vector. The hough       function generates a parameter space matrix whose rows and columns correspond to these rho and theta values, respectively.
 
   By applying Hough Transformation in the processed image a raw image is produced with detected lines, which gives us an idea of a possible meteor.
-  
-I would like to thank **Eliška Anna Kubičková**, University of West Bohemia Pilsen, Department of Cybernetics who's research paper on "SEARCHING OF METEORS IN ASTRONOMICAL IMAGES ON THE BASIS OF MATLAB TOOLBOX" I have referred to for this project.
 
 Refernce -  _Kubičková, E.A.: Searching of Meteors in Astronomical
 Images on the Basis of MATLAB Toolbox. Technical Computing
