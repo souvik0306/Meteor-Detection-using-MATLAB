@@ -22,7 +22,7 @@ Bratislava: RT Systems in cooperation with Systémy
 priemyselnej informatiky, s.r.o., 2010. ISBN 978-80-970519-0-
 7._
 
-Image Used - 
+Input Image - 
 ![image used](https://github.com/souvik0306/Meteor-Detection-using-MATLAB/blob/master/meteor.jpg?raw=true)
-Resulting Image -
+Output Image -
 ![image used](https://github.com/souvik0306/Meteor-Detection-using-MATLAB/blob/master/Result_image1.png?raw=true)
